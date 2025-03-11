@@ -1,0 +1,10 @@
+.container {
+    text-align: center;
+  }
+  img {
+    display: inline-block;
+  }
+
+body {
+    background-color: black;
+}
